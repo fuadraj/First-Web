@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>CSS Devolopment</title>
+    <style>
+        h1{
+            color: rgb(255, 0, 64);
+            background-color: rgba(0, 0, 0, 0.856);
+            font-family: Cursive;
+            width: auto;
+            height: 100px;
+        }
+        div.a{
+            text-align: center;
+        }
+        h2{
+            color: rgb(255, 0, 106);
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        }
+    body{
+        background-image: url(Image/Untitled\ design\ \(33\).png);
+        background-size: cover;
+
+    }
+    p{
+        font-family: cursive;
+        font-size: medium;
+        color: black;
+    }
+    img{
+        width: 20%;
+        height: 35%;
+    }
+    div.b{
+        text-align: right;
+        font-family: cursive;
+        font-size: medium;
+    }
+    .Fuad{
+        color: orange;
+    }
+    .c{
+        border: black 8px solid;
+        border-radius: 30px;
+        margin: 40px 50px;
+        padding: 10px 25px;
+
+    }
+    h3{
+        font-family: monospace;
+    }
+    p{
+        text-align: justify;
+    }
+    
+    </style>
+</head>
+<body>
+    <div class="a">
+    <h1>Fuad Raj</h1></div>
+    <h2>It's me <span class="Fuad">Fuad Raj</span></h2>
+    <p>If you wanted to know about me more then follow me on Facebook</p>
+    <p>Facebook Profile <a href="https://www.facebook.com/profile.php?id=100026514886549">Click Here</a></p>
+    
+    <div class="b">
+        <p><img src="Image/1639146294521-removebg-preview.png"></img>
+             I wanted to be a webdevoloper.
+             All my friends are toxic, all ambitionless
+             So rude and always negative
+             I need new friends, but it's not tha</p>
+            </div> 
+            <div class="c">
+                <h3>Today</h3>
+                <p>Ami vat khai mach diye</p></div>
+                <div class="c"><h3>Eating</h3>
+                <p>kalke ami biriyani khabo</p></div>
+                <div class="c"><h3>Afternoon</h3>
+                <p>Bikele ami coding kori</p></div>
+
+</body>
+</html>
